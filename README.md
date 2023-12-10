@@ -1,2 +1,1 @@
-# 获取自由门、无界、自由浏览、迷雾通、Tor
-一个获取软件的地方，希望GitHub管理员不要判定为“违反条款”，谢谢
+# good-beautiful-fish-xmpp-cake

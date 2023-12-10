@@ -1,0 +1,1 @@
+注：PSPeriodicTableofElements.apk 这个文件是安卓版自由门的伪装版，伪装了应用名和包名。
